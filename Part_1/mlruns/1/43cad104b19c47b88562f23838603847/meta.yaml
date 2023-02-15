@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Administrateur/Projets/Brief_21-MLops/Part_1/mlruns/1/43cad104b19c47b88562f23838603847/artifacts
+end_time: 1675948493747
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 43cad104b19c47b88562f23838603847
+run_name: GaussianNB
+run_uuid: 43cad104b19c47b88562f23838603847
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675948493499
+status: 3
+tags: []
+user_id: Administrateur

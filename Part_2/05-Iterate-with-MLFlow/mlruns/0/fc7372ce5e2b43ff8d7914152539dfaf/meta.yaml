@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Administrateur/Projets/Brief_21-MLops/Part_2/05-Iterate-with-MLFlow/mlruns/0/fc7372ce5e2b43ff8d7914152539dfaf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc7372ce5e2b43ff8d7914152539dfaf
+run_name: redolent-whale-75
+run_uuid: fc7372ce5e2b43ff8d7914152539dfaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676390609425
+status: 1
+tags: []
+user_id: unknown

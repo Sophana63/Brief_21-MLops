@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Administrateur/Projets/Brief_21-MLops/Part_2/04-MLFlow-quickstart/mlruns/0/56625f8761ae496692a9bd83b1eab768/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 56625f8761ae496692a9bd83b1eab768
+run_name: tasteful-skunk-528
+run_uuid: 56625f8761ae496692a9bd83b1eab768
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676304616827
+status: 1
+tags: []
+user_id: unknown

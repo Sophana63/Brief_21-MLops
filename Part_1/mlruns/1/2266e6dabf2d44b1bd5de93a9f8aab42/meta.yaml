@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Administrateur/Projets/Brief_21-MLops/Part_1/mlruns/1/2266e6dabf2d44b1bd5de93a9f8aab42/artifacts
+end_time: 1675948172504
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 2266e6dabf2d44b1bd5de93a9f8aab42
+run_name: My_Conditional_Model
+run_uuid: 2266e6dabf2d44b1bd5de93a9f8aab42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675948172457
+status: 4
+tags: []
+user_id: Administrateur

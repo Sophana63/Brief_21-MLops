@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Administrateur/Projets/Brief_21-MLops/Part_1/mlruns/1/7790f18bef804e43ba5d52bf4dc22eb9/artifacts
+end_time: 1675946197939
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7790f18bef804e43ba5d52bf4dc22eb9
+run_name: LinearDiscriminantAnalysis
+run_uuid: 7790f18bef804e43ba5d52bf4dc22eb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675946197685
+status: 3
+tags: []
+user_id: Administrateur

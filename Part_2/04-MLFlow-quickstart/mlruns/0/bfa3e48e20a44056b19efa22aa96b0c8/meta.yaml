@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Administrateur/Projets/Brief_21-MLops/Part_2/04-MLFlow-quickstart/mlruns/0/bfa3e48e20a44056b19efa22aa96b0c8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bfa3e48e20a44056b19efa22aa96b0c8
+run_name: overjoyed-vole-550
+run_uuid: bfa3e48e20a44056b19efa22aa96b0c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676304559899
+status: 1
+tags: []
+user_id: unknown

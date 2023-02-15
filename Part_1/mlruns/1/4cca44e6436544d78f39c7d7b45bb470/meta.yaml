@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Administrateur/Projets/Brief_21-MLops/Part_1/mlruns/1/4cca44e6436544d78f39c7d7b45bb470/artifacts
+end_time: 1675948493241
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4cca44e6436544d78f39c7d7b45bb470
+run_name: KNeighborsClassifier
+run_uuid: 4cca44e6436544d78f39c7d7b45bb470
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675948493043
+status: 3
+tags: []
+user_id: Administrateur

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Administrateur/Projets/Brief_21-MLops/Part_1/mlruns/1/5868587f46184998b0d986296c3edd9f/artifacts
+end_time: 1675945812116
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5868587f46184998b0d986296c3edd9f
+run_name: SVM
+run_uuid: 5868587f46184998b0d986296c3edd9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675945811731
+status: 3
+tags: []
+user_id: Administrateur

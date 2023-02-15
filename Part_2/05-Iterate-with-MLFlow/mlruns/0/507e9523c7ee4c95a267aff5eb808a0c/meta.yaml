@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Administrateur/Projets/Brief_21-MLops/Part_2/05-Iterate-with-MLFlow/mlruns/0/507e9523c7ee4c95a267aff5eb808a0c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 507e9523c7ee4c95a267aff5eb808a0c
+run_name: gregarious-slug-403
+run_uuid: 507e9523c7ee4c95a267aff5eb808a0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676391131219
+status: 1
+tags: []
+user_id: unknown

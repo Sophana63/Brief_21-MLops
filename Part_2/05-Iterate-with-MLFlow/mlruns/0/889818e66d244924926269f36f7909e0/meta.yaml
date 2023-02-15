@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Administrateur/Projets/Brief_21-MLops/Part_2/05-Iterate-with-MLFlow/mlruns/0/889818e66d244924926269f36f7909e0/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 889818e66d244924926269f36f7909e0
+run_name: beautiful-skink-888
+run_uuid: 889818e66d244924926269f36f7909e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676390157918
+status: 1
+tags: []
+user_id: unknown

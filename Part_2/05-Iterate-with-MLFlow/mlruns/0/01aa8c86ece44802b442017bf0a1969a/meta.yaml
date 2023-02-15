@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Administrateur/Projets/Brief_21-MLops/Part_2/05-Iterate-with-MLFlow/mlruns/0/01aa8c86ece44802b442017bf0a1969a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 01aa8c86ece44802b442017bf0a1969a
+run_name: polite-midge-412
+run_uuid: 01aa8c86ece44802b442017bf0a1969a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676390204934
+status: 1
+tags: []
+user_id: unknown

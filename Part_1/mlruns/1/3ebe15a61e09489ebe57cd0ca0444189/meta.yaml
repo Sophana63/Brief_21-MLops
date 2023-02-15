@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Administrateur/Projets/Brief_21-MLops/Part_1/mlruns/1/3ebe15a61e09489ebe57cd0ca0444189/artifacts
+end_time: 1675949539804
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 3ebe15a61e09489ebe57cd0ca0444189
+run_name: LogisticRegression
+run_uuid: 3ebe15a61e09489ebe57cd0ca0444189
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675949539760
+status: 4
+tags: []
+user_id: Administrateur

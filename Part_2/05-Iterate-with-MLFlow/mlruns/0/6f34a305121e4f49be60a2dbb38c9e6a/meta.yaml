@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Administrateur/Projets/Brief_21-MLops/Part_2/05-Iterate-with-MLFlow/mlruns/0/6f34a305121e4f49be60a2dbb38c9e6a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f34a305121e4f49be60a2dbb38c9e6a
+run_name: skillful-conch-146
+run_uuid: 6f34a305121e4f49be60a2dbb38c9e6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676390335404
+status: 1
+tags: []
+user_id: unknown

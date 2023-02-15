@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Administrateur/Projets/Brief_21-MLops/Part_1/mlruns/1/bff14024652745b7a877d07bee1c1cd8/artifacts
+end_time: 1675950036033
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: bff14024652745b7a877d07bee1c1cd8
+run_name: DecisionTreeClassifier
+run_uuid: bff14024652745b7a877d07bee1c1cd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675950035763
+status: 3
+tags: []
+user_id: Administrateur

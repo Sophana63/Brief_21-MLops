@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Administrateur/Projets/Brief_21-MLops/Part_2/04-MLFlow-quickstart/mlruns/0/642b8804125b448587b4a7c44786ed1a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 642b8804125b448587b4a7c44786ed1a
+run_name: agreeable-toad-454
+run_uuid: 642b8804125b448587b4a7c44786ed1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676304394835
+status: 1
+tags: []
+user_id: unknown

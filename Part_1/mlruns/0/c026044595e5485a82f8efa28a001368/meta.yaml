@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Administrateur/Projets/Brief_21-MLops/Part_1/mlruns/0/c026044595e5485a82f8efa28a001368/artifacts
+end_time: 1675945795798
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c026044595e5485a82f8efa28a001368
+run_name: Modele_Aleatoire
+run_uuid: c026044595e5485a82f8efa28a001368
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675945795744
+status: 3
+tags: []
+user_id: Administrateur

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Administrateur/Projets/Brief_21-MLops/Part_2/05-Iterate-with-MLFlow/mlruns/0/1fe1645d3c764830a327e0267124da8e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1fe1645d3c764830a327e0267124da8e
+run_name: mysterious-eel-744
+run_uuid: 1fe1645d3c764830a327e0267124da8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676390727153
+status: 1
+tags: []
+user_id: unknown
